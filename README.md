@@ -121,16 +121,12 @@ public class MainActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 String value=adapter.getItem(position);
                 Toast.makeText(getApplicationContext(),value,Toast.LENGTH_SHORT).show();
-
             }
         });
-
     }
 }
-
 ```
 ## OUTPUT
-
 ![Screenshot 2024-10-05 140526](https://github.com/user-attachments/assets/f31c1d4e-50a3-4af7-b32d-1da491a5cd64)
 
 ## RESULT
